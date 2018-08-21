@@ -1,3 +1,10 @@
+##字符串自动换行
+```
+white-space: pre;
+word-break: break-all;
+word-wrap: break-word;
+```
+
 ## 随机数
 ```
 Math.random()*(2)+1:   1-3之间的随机数
